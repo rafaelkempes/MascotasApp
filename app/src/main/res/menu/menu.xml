@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="Agregar"
+        android:title="Añadir registro"/>
+    <item
+        android:id="Eliminar"
+        android:title="Eliminar mascota"/>
+    <item
+        android:id="Actualizar"
+        android:title="Actualizar mascota"/>
+    <item
+        android:id="Mostar"
+        android:title="Mostar numero de mascota"/>
+</menu>
